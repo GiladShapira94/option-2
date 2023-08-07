@@ -1,0 +1,12 @@
+kind: project
+metadata:
+  name: option-2-b-shapira
+spec:
+  functions: []
+  workflows: []
+  artifacts: []
+  conda: ''
+  source: ''
+  subpath: ./project_b
+  desired_state: online
+  workdir: ./src/
